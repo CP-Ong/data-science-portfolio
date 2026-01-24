@@ -12,7 +12,7 @@ Injury Prediction for Competitive Runners — Kaggle
 https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners
 
 -->
-### Project 1: Predicting Customer Churn to Improve Retention &nbsp; | &nbsp; [<ins>See Project</ins>](Bank-Customer-Churn)
+### Project 1: Predicting Customer Churn to Improve Retention &nbsp; | &nbsp; [<ins>See Project</ins>](Customer-Churn)
 > Developed a predictive churn model using bank customer data to identify high-risk users before they leave. The project focuses on transforming demographic and account usage metrics into actionable insights and interpretable churn risk scores that could be used by product or CRM teams to drive retention strategies and reduce revenue loss.
 
 **Dataset:**  
