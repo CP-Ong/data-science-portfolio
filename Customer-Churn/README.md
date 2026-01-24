@@ -28,11 +28,6 @@ The dataset contains **demographic, account, and product usage information** for
 
 ---
 
-## 🧠 Approach Overview
-This project follows a **real-world data science workflow**, from problem framing to actionable insights.
-
----
-
 ## 1️⃣ Exploratory Data Analysis (EDA)
 **Goal:** Understand churn patterns, feature distributions, and data quality.
 
