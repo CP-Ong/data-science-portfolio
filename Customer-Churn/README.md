@@ -19,7 +19,7 @@ The objective of this project is to develop a **predictive churn model** using b
 ## 📊 Dataset
 **Bank Customer Churn Dataset**  
 Source: Kaggle  
-[https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)
+[https://www.kaggle.com/datasets/shubh0799/churn-modelling](https://www.kaggle.com/datasets/shubh0799/churn-modelling)
 
 The dataset contains **demographic, account, and product usage information** for ~10,000 banking customers, along with a churn label (`Exited`) indicating whether the customer left. Key columns include:  
 - Customer demographics: Age, Gender, Geography  
@@ -56,7 +56,7 @@ Planned features:
 Planned models:  
 - Logistic Regression for interpretability  
 - Random Forest and XGBoost for capturing nonlinear relationships  
-- Handle class imbalance with **SMOTE or class weighting**  
+- Handle class imbalance with **class weighting**  
 - Train/test split stratified on churn to prevent data leakage  
 
 ---
@@ -97,14 +97,3 @@ Planned deliverables:
 - Predict **time-to-churn** using survival analysis  
 - Build personalized retention models per customer segment  
 - Simulate impact of retention campaigns using predicted risk scores  
-
----
-
-## ⭐ Why This Project Matters
-This project demonstrates:  
-- Predictive modeling for **customer retention**  
-- Feature engineering from demographic and behavioral data  
-- Handling **imbalanced classification problems**  
-- Translating model insights into **actionable product strategies**
-
-It reflects how data science is applied in **fintech, superapps, and subscription-based products**, highlighting both **ML skills and product thinking**.
